@@ -1,2 +1,2 @@
-# mainrepo
-this is my first repository with various files from the distro distribution to other files of design
+# Design repo
+this is my first repository with various files from different mockups and designing classes for UI/UX mostly done on figma.
